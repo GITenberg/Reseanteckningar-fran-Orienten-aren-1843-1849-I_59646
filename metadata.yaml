@@ -1,5 +1,8 @@
 _repo: Reseanteckningar-fran-Orienten-aren-1843-1849-I_59646
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wallin, Georg August
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '50552'
     url: http://www.gutenberg.org/2009/agents/50552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59646#Reseanteckningar-fran-Orienten-aren-1843-1849-I
 gutenberg_issued: '2019-06-01'
 gutenberg_type: Text
 identifiers:
